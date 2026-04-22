@@ -1,0 +1,9 @@
+{
+"nombre":"Biblioteca Municipal",
+"ciudad":"Sevilla",
+"libros":[
+	{"titulo":"El Hobbit","autor":"JRR Tolkien","anioPublicacion":1950,"disponible":true},
+	{"titulo":"El Señor de los Anillos","autor":"JRR Tolkien","anioPublicacion":1951,"disponible":true},
+	{"titulo":"100 años de Soledad","autor":"Gabriel García Márquez","anioPublicacion":1975,"disponible":true}
+	]
+}

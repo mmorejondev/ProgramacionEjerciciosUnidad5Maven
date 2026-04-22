@@ -1,0 +1,22 @@
+[
+  { "nombre": "Ana López", "edad": 25 },
+  { "nombre": "Carlos García", "edad": 32 },
+  { "nombre": "María Fernández", "edad": 28 },
+  { "nombre": "Juan Martínez", "edad": 40 },
+  { "nombre": "Lucía Sánchez", "edad": 22 },
+  { "nombre": "Pedro Gómez", "edad": 35 },
+  { "nombre": "Elena Díaz", "edad": 27 },
+  { "nombre": "Miguel Torres", "edad": 45 },
+  { "nombre": "Sofía Ruiz", "edad": 30 },
+  { "nombre": "Javier Morales", "edad": 38 },
+  { "nombre": "Laura Castro", "edad": 26 },
+  { "nombre": "Diego Ortiz", "edad": 33 },
+  { "nombre": "Carmen Navarro", "edad": 29 },
+  { "nombre": "Raúl Romero", "edad": 41 },
+  { "nombre": "Paula Herrera", "edad": 24 },
+  { "nombre": "Alberto Vega", "edad": 36 },
+  { "nombre": "Natalia Molina", "edad": 31 },
+  { "nombre": "Fernando Delgado", "edad": 50 },
+  { "nombre": "Isabel Cruz", "edad": 34 },
+  { "nombre": "Andrés Medina", "edad": 39 }
+]
